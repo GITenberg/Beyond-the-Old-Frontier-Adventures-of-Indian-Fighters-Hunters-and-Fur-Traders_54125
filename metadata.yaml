@@ -1,0 +1,32 @@
+_repo: Beyond-the-Old-Frontier-Adventures-of-Indian-Fighters-Hunters-and-Fur-Traders_54125
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grinnell, George Bird
+    birthdate: 1849
+    deathdate: 1938
+    gutenberg_agent_id: '4021'
+    url: http://www.gutenberg.org/2009/agents/4021
+    wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
+description: ''
+gutenberg_issued: '2017-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54125'
+  lccn: '13019510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ruxton, George Frederick Augustus, 1820-1848'
+- !lcsh 'Indians of North America -- West (U.S.)'
+- !lcsh 'Palliser, John, 1807-1887'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcsh 'Garrard, Lewis Hector, 1829-1887'
+- !lcc 'F590.3'
+- !lcsh 'Fur trade -- West (U.S.)'
+- !lcsh 'Ross, Alexander, 1783-1856'
+- GITenberg
+title: 'Beyond the Old Frontier: Adventures of Indian-Fighters, Hunters, and Fur-Traders'
+url: http://www.gutenberg.org/ebooks/54125
